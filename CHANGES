@@ -1,3 +1,5 @@
+1.3.3 2026-10-19
+  - updated some mislabeled columns in events.tsv files for sub-04, 05 and 11. 
 1.3.2 2026-08-27
   - reverted metadata files like events.tsv to more accurate older version
 1.3.1 2026-08-26
